@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Dublin",
+    "pm25_annual": 9.2,
+    "no2_annual": 18.5,
+    "o3_annual": 45.2,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Cork",
+    "pm25_annual": 7.8,
+    "no2_annual": 15.2,
+    "o3_annual": 42.1,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Galway",
+    "pm25_annual": 6.5,
+    "no2_annual": 12.8,
+    "o3_annual": 38.9,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Limerick",
+    "pm25_annual": 8.1,
+    "no2_annual": 16.3,
+    "o3_annual": 41.5,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Waterford",
+    "pm25_annual": 7.2,
+    "no2_annual": 14.1,
+    "o3_annual": 39.8,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Kilkenny",
+    "pm25_annual": 6.8,
+    "no2_annual": 13.5,
+    "o3_annual": 40.2,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Wexford",
+    "pm25_annual": 6.1,
+    "no2_annual": 11.9,
+    "o3_annual": 37.6,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Sligo",
+    "pm25_annual": 5.9,
+    "no2_annual": 11.2,
+    "o3_annual": 36.8,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Drogheda",
+    "pm25_annual": 8.5,
+    "no2_annual": 17.1,
+    "o3_annual": 43.2,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Bray",
+    "pm25_annual": 7.9,
+    "no2_annual": 15.8,
+    "o3_annual": 42.6,
+    "source": "EPA Ireland",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  }
+]

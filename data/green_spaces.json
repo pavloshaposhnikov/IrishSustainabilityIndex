@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Dublin",
+    "green_percentage": 23.5,
+    "parks_count": 45,
+    "area_km2": 115,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Cork",
+    "green_percentage": 28.2,
+    "parks_count": 32,
+    "area_km2": 37,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Galway",
+    "green_percentage": 31.8,
+    "parks_count": 28,
+    "area_km2": 50,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Limerick",
+    "green_percentage": 26.4,
+    "parks_count": 25,
+    "area_km2": 51,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Waterford",
+    "green_percentage": 29.1,
+    "parks_count": 18,
+    "area_km2": 42,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Kilkenny",
+    "green_percentage": 32.5,
+    "parks_count": 15,
+    "area_km2": 26,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Wexford",
+    "green_percentage": 30.2,
+    "parks_count": 12,
+    "area_km2": 32,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Sligo",
+    "green_percentage": 33.8,
+    "parks_count": 14,
+    "area_km2": 18,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Drogheda",
+    "green_percentage": 27.6,
+    "parks_count": 16,
+    "area_km2": 15,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Bray",
+    "green_percentage": 25.3,
+    "parks_count": 8,
+    "area_km2": 20,
+    "source": "OpenStreetMap + CSO",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  }
+]

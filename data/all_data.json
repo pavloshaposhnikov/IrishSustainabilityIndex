@@ -1,0 +1,392 @@
+{
+  "air_quality": [
+    {
+      "city": "Dublin",
+      "pm25_annual": 9.2,
+      "no2_annual": 18.5,
+      "o3_annual": 45.2,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Cork",
+      "pm25_annual": 7.8,
+      "no2_annual": 15.2,
+      "o3_annual": 42.1,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Galway",
+      "pm25_annual": 6.5,
+      "no2_annual": 12.8,
+      "o3_annual": 38.9,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Limerick",
+      "pm25_annual": 8.1,
+      "no2_annual": 16.3,
+      "o3_annual": 41.5,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Waterford",
+      "pm25_annual": 7.2,
+      "no2_annual": 14.1,
+      "o3_annual": 39.8,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Kilkenny",
+      "pm25_annual": 6.8,
+      "no2_annual": 13.5,
+      "o3_annual": 40.2,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Wexford",
+      "pm25_annual": 6.1,
+      "no2_annual": 11.9,
+      "o3_annual": 37.6,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Sligo",
+      "pm25_annual": 5.9,
+      "no2_annual": 11.2,
+      "o3_annual": 36.8,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Drogheda",
+      "pm25_annual": 8.5,
+      "no2_annual": 17.1,
+      "o3_annual": 43.2,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Bray",
+      "pm25_annual": 7.9,
+      "no2_annual": 15.8,
+      "o3_annual": 42.6,
+      "source": "EPA Ireland",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    }
+  ],
+  "green_spaces": [
+    {
+      "city": "Dublin",
+      "green_percentage": 23.5,
+      "parks_count": 45,
+      "area_km2": 115,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Cork",
+      "green_percentage": 28.2,
+      "parks_count": 32,
+      "area_km2": 37,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Galway",
+      "green_percentage": 31.8,
+      "parks_count": 28,
+      "area_km2": 50,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Limerick",
+      "green_percentage": 26.4,
+      "parks_count": 25,
+      "area_km2": 51,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Waterford",
+      "green_percentage": 29.1,
+      "parks_count": 18,
+      "area_km2": 42,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Kilkenny",
+      "green_percentage": 32.5,
+      "parks_count": 15,
+      "area_km2": 26,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Wexford",
+      "green_percentage": 30.2,
+      "parks_count": 12,
+      "area_km2": 32,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Sligo",
+      "green_percentage": 33.8,
+      "parks_count": 14,
+      "area_km2": 18,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Drogheda",
+      "green_percentage": 27.6,
+      "parks_count": 16,
+      "area_km2": 15,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Bray",
+      "green_percentage": 25.3,
+      "parks_count": 8,
+      "area_km2": 20,
+      "source": "OpenStreetMap + CSO",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    }
+  ],
+  "transport": [
+    {
+      "city": "Dublin",
+      "transport_score": 7.85,
+      "bus_score": 8.5,
+      "rail_score": 7.2,
+      "frequency": 4.2,
+      "coverage_percent": 85,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Cork",
+      "transport_score": 5.949999999999999,
+      "bus_score": 6.8,
+      "rail_score": 5.1,
+      "frequency": 3.8,
+      "coverage_percent": 72,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Galway",
+      "transport_score": 5.0,
+      "bus_score": 5.2,
+      "rail_score": 4.8,
+      "frequency": 3.2,
+      "coverage_percent": 68,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Limerick",
+      "transport_score": 5.8,
+      "bus_score": 6.1,
+      "rail_score": 5.5,
+      "frequency": 3.5,
+      "coverage_percent": 71,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Waterford",
+      "transport_score": 5.0,
+      "bus_score": 5.8,
+      "rail_score": 4.2,
+      "frequency": 3.1,
+      "coverage_percent": 65,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Kilkenny",
+      "transport_score": 4.15,
+      "bus_score": 4.5,
+      "rail_score": 3.8,
+      "frequency": 2.8,
+      "coverage_percent": 58,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Wexford",
+      "transport_score": 3.85,
+      "bus_score": 4.2,
+      "rail_score": 3.5,
+      "frequency": 2.6,
+      "coverage_percent": 55,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Sligo",
+      "transport_score": 4.449999999999999,
+      "bus_score": 4.8,
+      "rail_score": 4.1,
+      "frequency": 2.9,
+      "coverage_percent": 62,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Drogheda",
+      "transport_score": 5.85,
+      "bus_score": 5.5,
+      "rail_score": 6.2,
+      "frequency": 3.3,
+      "coverage_percent": 69,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Bray",
+      "transport_score": 7.65,
+      "bus_score": 7.2,
+      "rail_score": 8.1,
+      "frequency": 4.5,
+      "coverage_percent": 78,
+      "source": "Irish Transport Authorities",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    }
+  ],
+  "waste_management": [
+    {
+      "city": "Dublin",
+      "recycling_rate": 42.5,
+      "waste_per_capita": 380,
+      "landfill_rate": 15.2,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Cork",
+      "recycling_rate": 48.2,
+      "waste_per_capita": 365,
+      "landfill_rate": 12.8,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Galway",
+      "recycling_rate": 51.8,
+      "waste_per_capita": 342,
+      "landfill_rate": 10.5,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Limerick",
+      "recycling_rate": 45.6,
+      "waste_per_capita": 368,
+      "landfill_rate": 13.2,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Waterford",
+      "recycling_rate": 49.1,
+      "waste_per_capita": 355,
+      "landfill_rate": 11.8,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Kilkenny",
+      "recycling_rate": 52.3,
+      "waste_per_capita": 338,
+      "landfill_rate": 9.8,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Wexford",
+      "recycling_rate": 47.8,
+      "waste_per_capita": 348,
+      "landfill_rate": 12.1,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Sligo",
+      "recycling_rate": 50.2,
+      "waste_per_capita": 345,
+      "landfill_rate": 10.8,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Drogheda",
+      "recycling_rate": 46.5,
+      "waste_per_capita": 362,
+      "landfill_rate": 13.5,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    },
+    {
+      "city": "Bray",
+      "recycling_rate": 44.8,
+      "waste_per_capita": 375,
+      "landfill_rate": 14.2,
+      "source": "Local Authority Reports",
+      "year": 2023,
+      "last_updated": "2025-10-15"
+    }
+  ],
+  "collection_date": "2025-10-15 13:39:36",
+  "total_cities": 10
+}

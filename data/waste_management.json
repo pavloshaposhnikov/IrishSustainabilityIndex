@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Dublin",
+    "recycling_rate": 42.5,
+    "waste_per_capita": 380,
+    "landfill_rate": 15.2,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Cork",
+    "recycling_rate": 48.2,
+    "waste_per_capita": 365,
+    "landfill_rate": 12.8,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Galway",
+    "recycling_rate": 51.8,
+    "waste_per_capita": 342,
+    "landfill_rate": 10.5,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Limerick",
+    "recycling_rate": 45.6,
+    "waste_per_capita": 368,
+    "landfill_rate": 13.2,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Waterford",
+    "recycling_rate": 49.1,
+    "waste_per_capita": 355,
+    "landfill_rate": 11.8,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Kilkenny",
+    "recycling_rate": 52.3,
+    "waste_per_capita": 338,
+    "landfill_rate": 9.8,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Wexford",
+    "recycling_rate": 47.8,
+    "waste_per_capita": 348,
+    "landfill_rate": 12.1,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Sligo",
+    "recycling_rate": 50.2,
+    "waste_per_capita": 345,
+    "landfill_rate": 10.8,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Drogheda",
+    "recycling_rate": 46.5,
+    "waste_per_capita": 362,
+    "landfill_rate": 13.5,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Bray",
+    "recycling_rate": 44.8,
+    "waste_per_capita": 375,
+    "landfill_rate": 14.2,
+    "source": "Local Authority Reports",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  }
+]

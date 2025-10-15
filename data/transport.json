@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Dublin",
+    "transport_score": 7.85,
+    "bus_score": 8.5,
+    "rail_score": 7.2,
+    "frequency": 4.2,
+    "coverage_percent": 85,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Cork",
+    "transport_score": 5.949999999999999,
+    "bus_score": 6.8,
+    "rail_score": 5.1,
+    "frequency": 3.8,
+    "coverage_percent": 72,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Galway",
+    "transport_score": 5.0,
+    "bus_score": 5.2,
+    "rail_score": 4.8,
+    "frequency": 3.2,
+    "coverage_percent": 68,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Limerick",
+    "transport_score": 5.8,
+    "bus_score": 6.1,
+    "rail_score": 5.5,
+    "frequency": 3.5,
+    "coverage_percent": 71,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Waterford",
+    "transport_score": 5.0,
+    "bus_score": 5.8,
+    "rail_score": 4.2,
+    "frequency": 3.1,
+    "coverage_percent": 65,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Kilkenny",
+    "transport_score": 4.15,
+    "bus_score": 4.5,
+    "rail_score": 3.8,
+    "frequency": 2.8,
+    "coverage_percent": 58,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Wexford",
+    "transport_score": 3.85,
+    "bus_score": 4.2,
+    "rail_score": 3.5,
+    "frequency": 2.6,
+    "coverage_percent": 55,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Sligo",
+    "transport_score": 4.449999999999999,
+    "bus_score": 4.8,
+    "rail_score": 4.1,
+    "frequency": 2.9,
+    "coverage_percent": 62,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Drogheda",
+    "transport_score": 5.85,
+    "bus_score": 5.5,
+    "rail_score": 6.2,
+    "frequency": 3.3,
+    "coverage_percent": 69,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  },
+  {
+    "city": "Bray",
+    "transport_score": 7.65,
+    "bus_score": 7.2,
+    "rail_score": 8.1,
+    "frequency": 4.5,
+    "coverage_percent": 78,
+    "source": "Irish Transport Authorities",
+    "year": 2023,
+    "last_updated": "2025-10-15"
+  }
+]
